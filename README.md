@@ -1,4 +1,4 @@
-# ContrarilCTF-2019-write-up
+# ContrarilCTF 2019 write-up
 
 [ContrailCTF 2019](http://3percent.blue/)
 
