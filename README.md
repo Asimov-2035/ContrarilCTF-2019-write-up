@@ -1,6 +1,6 @@
 # ContrailCTF 2019 write-up
 
-[ContrailCTF 2019](http://3percent.blue/) (URL no longer exists)
+[ContrailCTF 2019](http://3percent.blue/) (URL no longer valid)
 
 My write-ups:  
 
